@@ -160,3 +160,53 @@ table.employment {
 .mcgill-input-medium{
     width:60px;
 }
+
+figure.mcgill-picture{
+    display:inline-block;
+    border:1px solid #20a8d8;
+    width: -webkit-min-content;  
+    width: -moz-min-content;  
+    width: min-content; 
+    padding:3px; 
+    text-align:center; 
+    margin:8px;
+}
+
+.hr-blue {
+  border-color: #20a8d8;
+}
+
+table {
+    text-align: center;
+    color:white;
+    border-collapse:collapse;
+    border: 1px solid #000;
+    margin:4px;
+    font-family: 'Roboto', sans-serif;
+}
+
+thead {
+    background-color: #1171a3;
+}
+
+tbody {
+    background-color: ButtonShadow;
+}
+
+.mcgill-mediumblue {
+    background-color:#589CBF;
+}
+
+td {
+  border:1px solid black;
+}
+
+th {
+  border:1px solid black;
+  background-color:#589CBF;
+}
+
+
+tfoot {
+  color:black;
+}
