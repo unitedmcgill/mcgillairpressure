@@ -1,6 +1,7 @@
 import { Component, OnInit }            from '@angular/core';
 import { AuthenticationService } from '../services/auth.service';
 import { ConfigService } from '../services/config.service';
+import { Router } from '@angular/router';
 
 @Component({
     selector: 'app-dashboard',
@@ -12,7 +13,8 @@ export class FullLayoutComponent implements OnInit {
     public showEmploymentApp : boolean = false;
 
     constructor( private authService : AuthenticationService,
-                 public config : ConfigService ) {
+                 public config : ConfigService,
+                 private router: Router ) {
         authService.getLoggedInName.subscribe(name => this.changeName(name));
      }
 
@@ -21,6 +23,13 @@ export class FullLayoutComponent implements OnInit {
     }
 
     public year : number;
+
+    public changed(what : string){
+        // We need to get out of the sub pages and always start from the dashboard when the radio is changed unless we are already there
+        if ( this.router.url != '/dashboard'){
+            this.router.navigate(['/dashboard']);   
+        }
+    }
 
     ngOnInit(): void {
         this.year = new Date().getFullYear();

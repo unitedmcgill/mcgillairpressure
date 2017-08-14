@@ -22,10 +22,10 @@
                 <small>Please select:</small>
             </li>
             <li style="margin-left:12px;">
-                <input type="radio" [(ngModel)]="this.config.radioSelected" value="Autoclaves" />Autoclaves
+                <input type="radio" [(ngModel)]="this.config.radioSelected" value="Autoclaves" (ngModelChange)="changed('ac')"/>Autoclaves
             </li>
             <li style="margin-left:12px;">
-                <input type="radio" [(ngModel)]="this.config.radioSelected" value="Vacuum Dryers" />Vacuum Dryers
+                <input type="radio" [(ngModel)]="this.config.radioSelected" value="Vacuum Dryers" (ngModelChange)="changed('vd')"/>Vacuum Dryers
             </li>
             <li class="nav-item">
                 <a class="nav-link" routerLinkActive="active" [routerLink]="['/dashboard']">Welcome</a>
