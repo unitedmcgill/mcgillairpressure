@@ -39,7 +39,6 @@ export class ContactUsService{
     }
 
     public sendMessage(contact : ContactUs){
-       
         let bodyString = JSON.stringify(contact); // Stringify payload
         let headers = new Headers({ 'Content-Type': 'application/json' }); // ... Set content type to JSON
         let url = this.config.apiUrl+"/contactus";
