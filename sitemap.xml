@@ -13,15 +13,93 @@
     <loc>http://beta.unitedmcgill.com/location</loc>
   </url>
   <url>
-    <loc>http://beta.unitedmcgill.com/products</loc>
+    <loc>http://beta.unitedmcgill.com/acproducts</loc>
   </url>
   <url>
-    <loc>http://beta.unitedmcgill.com/career</loc>
+    <loc>http://beta.unitedmcgill.com/control</loc>
   </url>
   <url>
-    <loc>http://beta.unitedmcgill.com/customers</loc>
+    <loc>http://beta.unitedmcgill.com/rebuilds</loc>
   </url>
   <url>
-    <loc>http://beta.unitedmcgill.com/files</loc>
+    <loc>http://beta.unitedmcgill.com/rebuilds</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/parts</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/acservices</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/accustomers</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/vdproducts</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/pilot</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/vdcustomers</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/brochure.pdf</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/vpi.pdf</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/conical.pdf</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/ctrl.pdf</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/dewax.pdf</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/digest.pdf</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/glass.pdf</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/med.pdf</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/medwastdiag.pdf</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/mini.pdf</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/parts.pdf</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/pilot.pdf</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/prod.pdf</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/prodfull.pdf</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/rebuild.pdf</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/repair.pdf</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/rotary.pdf</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/shelf.pdf</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/systems.pdf</loc>
+  </url>
+  <url>
+    <loc>http://beta.unitedmcgill.com/assets/literature/vulc.pdf</loc>
   </url>
 </urlset>
