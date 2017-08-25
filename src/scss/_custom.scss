@@ -163,7 +163,7 @@ table.employment {
 
 figure.mcgill-picture{
     display:inline-block;
-    border:1px solid #20a8d8;
+    border:1px solid $brand-primary;
     width: -webkit-min-content;  
     width: -moz-min-content;  
     width: min-content; 
@@ -173,7 +173,7 @@ figure.mcgill-picture{
 }
 
 .hr-blue {
-  border-color: #20a8d8;
+  border-color: #003366;
 }
 
 table {
@@ -186,7 +186,7 @@ table {
 }
 
 thead {
-    background-color: #1171a3;
+    background-color: #003366;
 }
 
 tbody {
@@ -194,7 +194,7 @@ tbody {
 }
 
 .mcgill-mediumblue {
-    background-color:#589CBF;
+    background-color:#003366;
 }
 
 td {
@@ -203,7 +203,7 @@ td {
 
 th {
   border:1px solid black;
-  background-color:#589CBF;
+  background-color:#003366;
 }
 
 
