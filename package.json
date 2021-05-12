@@ -28,7 +28,7 @@
     "@angular/router": "^7.2.3",
     "@angular/upgrade": "^7.2.3",
     "angular2-jwt": "0.2.3",
-    "chart.js": "2.7.3",
+    "chart.js": "2.9.4",
     "core-js": "2.6.3",
     "moment": "^2.24.0",
     "ngx-bootstrap": "^3.2.0",
